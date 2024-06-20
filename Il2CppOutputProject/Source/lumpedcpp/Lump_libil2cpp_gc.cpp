@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "F:\unity download\project loaction\ResearchModeStreamer2\APP4-24.6.10\Il2CppOutputProject\IL2CPP\libil2cpp\gc\BoehmGC.cpp"
+#include "F:\unity download\project loaction\ResearchModeStreamer2\APP4-24.6.10\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GCHandle.cpp"
+#include "F:\unity download\project loaction\ResearchModeStreamer2\APP4-24.6.10\Il2CppOutputProject\IL2CPP\libil2cpp\gc\GarbageCollector.cpp"
+#include "F:\unity download\project loaction\ResearchModeStreamer2\APP4-24.6.10\Il2CppOutputProject\IL2CPP\libil2cpp\gc\NullGC.cpp"
+#include "F:\unity download\project loaction\ResearchModeStreamer2\APP4-24.6.10\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrier.cpp"
+#include "F:\unity download\project loaction\ResearchModeStreamer2\APP4-24.6.10\Il2CppOutputProject\IL2CPP\libil2cpp\gc\WriteBarrierValidation.cpp"
